@@ -29,3 +29,4 @@ PYTHONPATH=src pytest -q
 ```
 
 See `CONTRIBUTING.md` for developer workflow and publishing notes.
+For release and publishing guidance, see `RELEASE.md`.
