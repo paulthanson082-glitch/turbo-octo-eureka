@@ -3,6 +3,9 @@
 <!-- GitHub Actions status -->
 ![CI](https://github.com/paulthanson082-glitch/turbo-octo-eureka/actions/workflows/python-tests.yml/badge.svg)
 
+<!-- GitHub release badge -->
+![Release](https://img.shields.io/github/v/release/paulhanson082-glitch/turbo-octo-eureka)
+
 <!-- PyPI placeholder badge (publish workflow required + secret) -->
 ![PyPI version](https://img.shields.io/pypi/v/turbo-octo-eureka.svg?label=PyPI)
 
