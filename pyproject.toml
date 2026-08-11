@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "turbo-octo-eureka"
+version = "0.1.0"
+description = "Minimal scaffold for turbo-octo-eureka"
+authors = [ { name = "Paul Hanson" } ]
+requires-python = ">=3.8"
+
+[tool.setuptools.packages.find]
+where = ["src"]
